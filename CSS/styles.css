@@ -53,6 +53,11 @@ a:hover{
   bottom: 300px;
   color: #11999E;
 }
+.profile-img {
+  width: 10%;
+  height: 20%;
+  border-radius: 100%;
+}
 .last-part{
   color: #EAF6F6;
   font-size: 12px;
